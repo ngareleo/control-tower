@@ -1,0 +1,11 @@
+{
+  "name": "baldur",
+  "version": "1.0.0",
+  "description": "Router manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ngareoel",
+  "license": "ISC"
+}
