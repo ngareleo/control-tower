@@ -1,6 +1,6 @@
 # Control Tower
 
-A browser extension for autofilling huawei home router credentials
+A browser extension for auto-filling Huawei home router credentials
 
 ## How to install
 
